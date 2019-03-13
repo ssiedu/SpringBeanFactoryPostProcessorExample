@@ -28,7 +28,7 @@
 	<property name="sname" value="PQR"/>
 </bean>
 
-<!-- <bean class="com.ssi.MyBeanPostProcessor"/> -->
-
+<bean class="com.ssi.MyBeanPostProcessor"/>
+<bean class="com.ssi.MyBeanFactoryPostProcessor"/>
 </beans>
 
